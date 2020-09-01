@@ -33,7 +33,7 @@ There are three input text files:
  
  ## Part of a possible output sample:
  
- (/images/logo.png)
+ (RunningExample.png)
  
  ## Running the Program on Linux:
  
