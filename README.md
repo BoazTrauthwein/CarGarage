@@ -33,7 +33,7 @@ There are three input text files:
  
  ## Part of a possible output sample:
  
- (RunningExample.png)
+ ![alt text](https://github.com/BoazTrauthwein/CarGarage/RunningExample.png)
  
  ## Running the Program on Linux:
  
