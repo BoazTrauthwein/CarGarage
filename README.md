@@ -23,7 +23,7 @@ There are three input text files:
   - The number of resources required to perform this type of repair.
   - List of resource numbers needed to perform the repair
   
- - request.txt: List of cars seeking repairs in the garage.
+- request.txt: List of cars seeking repairs in the garage.
   - The license number of the car
   - Arrival time of the car at the garage (0 - 23).
   - The number of the type of repair the car needs (the list below).
