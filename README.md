@@ -34,6 +34,7 @@ There are three input text files:
  ## Part of a possible output sample:
  
  ![alt text](https://github.com/BoazTrauthwein/CarGarage/RunningExample.png)
+ ![Screenshot](RunningExample.png)
  
  ## Running the Program on Linux:
  
