@@ -1,5 +1,3 @@
-//Yosef Zoubi 316572734
-//Boaz Trauthwein 209859420
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
