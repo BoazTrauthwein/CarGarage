@@ -35,7 +35,11 @@ There are three input text files:
  
  (/images/logo.png)
  
+ ## Running the Program on Linux:
  
+ Open the terminal in the folder and paste these two lines:
+ $ gcc -pthread CarGarage.c -o CarGarage
+ $ ./CarGarage resources.txt repairs.txt requests.txt
  
  
  
