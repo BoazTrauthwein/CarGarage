@@ -37,8 +37,8 @@ There are three input text files:
  
  ## Running the Program on Linux:
  
- Open the terminal in the folder and paste these two lines:
- $ gcc -pthread CarGarage.c -o CarGarage
+ Open the terminal in the folder and paste these two lines:<br />
+ $ gcc -pthread CarGarage.c -o CarGarage<br />
  $ ./CarGarage resources.txt repairs.txt requests.txt
  
  
