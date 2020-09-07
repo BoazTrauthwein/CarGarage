@@ -1,6 +1,6 @@
 # CarGarage
 
-## This Program for Linux in the C language. It uses threads and semaphores.
+## This Linux Program is written in the C language. It uses threads and semaphores.
 
 A garage has various types of resources: Car Lift, Front Alignment, Headlights Adjust, Oil Drain, Computerized Check...
 Many cars come to the garage that require a repair. Each car may require several types of repairs.
